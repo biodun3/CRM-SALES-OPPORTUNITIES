@@ -97,6 +97,12 @@ Project consists of a CRM+SALES+OPPORTUNITY data set gotten from https://www.mav
      <b> I then used all of these charts to create a single Dashboard </b>
       <p align="center">
        <img src="https://i.imgur.com/AuM7mZz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+        <br />
+        <br />
+       <p align="initial">
+       <h2>Note:</h2>
+       The CRM+SALES+OPPORTUNITY data file is uploaded above and the excel file for the Project is also uploaded above as Portfolio project 1</b> 
+
 </p>
 
 <!--
