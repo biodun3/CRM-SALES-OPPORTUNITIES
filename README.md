@@ -13,37 +13,37 @@ Project consists of a CRM+SALES+OPPORTUNITY data set gotten from https://www.mav
 <h2>Project walk-through:</h2>
 - <b>Raw data files for CRM+SALES+OPPORTUNITY: </b>
 <p align="center">
-<img src="https://i.imgur.com/SLN9bNE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SLN9bNE.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
  <p align="initial">
 - <b>Column details of the Account file: </b>
   <p align="center">
-<img src="https://i.imgur.com/SZ0PzLg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SZ0PzLg.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
     <p align="initial">
 - <b>Column details of the Product file: </b>
      <p align="center">
-<img src="https://i.imgur.com/Ib6lLiQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ib6lLiQ.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
         <p align="initial"> 
 - <b>Column details of the Sales_pipeline file: </b>
   <p align="center">       
-<img src="https://i.imgur.com/CSemi5s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CSemi5s.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
      <p align="initial">
 - <b>Column details of the Sales_teams file: </b>
         <p align="center">   
-<img src="https://i.imgur.com/3z7boUD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3z7boUD.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
        <p align="initial">     
 -<b>Data Dictionary </b>
        <p align="center">   
-<img src="https://i.imgur.com/g7cwvGe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/g7cwvGe.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
         <p align="initial">    
@@ -64,39 +64,39 @@ Project consists of a CRM+SALES+OPPORTUNITY data set gotten from https://www.mav
     <br/>
     - and also created an extra column "duration(days)" to know how long it took to finalize each Opportunity </b>
     <p align="center"> 
-<img src="https://i.imgur.com/g3JUt0r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/g3JUt0r.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
      <br />
      <br />
      <p align="initial">
      1) Account with more than or equal to 30 lost opportunity for some sort of compensation </b>
       <p align="center"> 
-      <img src="https://i.imgur.com/HzCOK3H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+      <img src="https://i.imgur.com/HzCOK3H.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
          <br />
         <p align="initial">
      2) Total close_value of each account. To know the highest earner and the lowest earner </b>
      <p align="center">
-       <img src="https://i.imgur.com/RgLDKfP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+       <img src="https://i.imgur.com/RgLDKfP.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
        <br />
         <p align="initial">
       3) The most successful sales agent under each account i.e sales agent with the highest won opportunity </b>
       <p align="center">
-       <img src="https://i.imgur.com/vifc14g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+       <img src="https://i.imgur.com/vifc14g.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
        <br />
         <p align="initial">
       4) Total opportunity won, lost, still engaging and prospecting under each account </b>
        <p align="center">
-       <img src="https://i.imgur.com/8NyCsQ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+       <img src="https://i.imgur.com/8NyCsQ9.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
        <br />
         <p align="initial">
       5) Region with the most won opportunity, to know the most successful of the regions </b>
         <p align="center">
-       <img src="https://i.imgur.com/zKyA8FU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+       <img src="https://i.imgur.com/zKyA8FU.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
          <br />
      <br />
      <p align="initial">
      <b> I then used all of these charts to create a single Dashboard </b>
       <p align="center">
-       <img src="https://i.imgur.com/AuM7mZz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+       <img src="https://i.imgur.com/AuM7mZz.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
         <br />
         <br />
        <p align="initial">
